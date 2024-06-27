@@ -8,14 +8,14 @@ Run all the Cells one by one.
 Copy the model generated and save it with the version number in the models folder.
 
 
-Running the API
+Running the API:
 Using FastAPI
 Get inside api folder
 Run the FastAPI Server using uvicorn
 Your API is now running at 0.0.0.0:8000
 
 
-Running the Frontend
+Running the Frontend:
 Get inside api folder
 Copy the .env.example as .env and update REACT_APP_API_URL to API URL if needed.
 Run the frontend (npm run start)
